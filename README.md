@@ -1,5 +1,9 @@
 # playwright-pom-saucedemo
 
+[![E2E Tests](https://github.com/ijmf/playwright-pom-saucedemo/actions/workflows/ci.yml/badge.svg)](https://github.com/ijmf/playwright-pom-saucedemo/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![Playwright](https://img.shields.io/badge/playwright-1.55-2EAD33)
+
 Suíte de testes E2E para o [SauceDemo](https://www.saucedemo.com) com **Playwright + pytest**, usando o padrão **Page Object Model (POM)** e relatórios **Allure**.
 
 ## Stack
